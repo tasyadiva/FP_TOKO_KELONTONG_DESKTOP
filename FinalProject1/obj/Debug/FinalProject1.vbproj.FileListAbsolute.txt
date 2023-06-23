@@ -1,0 +1,86 @@
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe.config
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\bin\Debug\FinalProject1.pdb
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\bin\Debug\FinalProject1.xml
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.AssemblyReference.cache
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.barang.resources
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.Form1.resources
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.home.resources
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporan.resources
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.Resources.resources
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.transaksi.resources
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.GenerateResource.cache
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.CoreCompileInputs.cache
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.exe
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.xml
+C:\Users\Achmad Samhan\source\repos\FinalProject1\FinalProject1\obj\Debug\FinalProject1.pdb
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe.config
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\bin\Debug\FinalProject1.pdb
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\bin\Debug\FinalProject1.xml
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.AssemblyReference.cache
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.barang.resources
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.home.resources
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporan.resources
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.Resources.resources
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.transaksi.resources
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.GenerateResource.cache
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.CoreCompileInputs.cache
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.exe
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.xml
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.pdb
+C:\Users\tasya\Downloads\FinalProject1\FinalProject1\FinalProject1\obj\Debug\FinalProject1.login.resources
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe.config
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.pdb
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.xml
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.AssemblyReference.cache
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.barang.resources
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.login.resources
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.home.resources
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.Resources.resources
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.GenerateResource.cache
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.CoreCompileInputs.cache
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.exe
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.xml
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.pdb
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporanTransaksi.resources
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporannn.resources
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.transaksibaru.resources
+C:\Users\tasya\Documents\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporanbarang.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe.config
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.pdb
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.xml
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.AssemblyReference.cache
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.barang.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.login.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.transaksibaru.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.home.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporannn.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporanTransaksi.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.Resources.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporanbarang.resources
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.GenerateResource.cache
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.CoreCompileInputs.cache
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.exe
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.xml
+C:\Users\salma\Music\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.pdb
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe.config
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.exe
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.pdb
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\bin\Debug\FinalProject1.xml
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.AssemblyReference.cache
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.barang.resources
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.login.resources
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.transaksibaru.resources
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.home.resources
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporannn.resources
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporanTransaksi.resources
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.Resources.resources
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.laporanbarang.resources
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.GenerateResource.cache
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.vbproj.CoreCompileInputs.cache
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.exe
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.xml
+C:\Users\tasya\Downloads\pemdesss bismillah\pemdesss\FinalProject1\FinalProject1\obj\Debug\FinalProject1.pdb
